@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Centered Image" style="display: block; margin: 10px auto 0;">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Full Width Image" width="100%">
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Centered Image" width="100%">
 <h1 align="center">Hi 👋, I'm Shaikh Abdul Sami.</h1>
 <h3 align="center">I develop full stack Web Applications.</h3>
 
