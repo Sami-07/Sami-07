@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **an Intern at an early-stage startup.**
 
-- 🌱 I’m currently learning **Typescript.**
+- 🌱 I’m currently learning **TypeScript and tRPC.**
 
 - 👨‍💻 All of my projects are available at [https://abdulsami-sami-07.vercel.app/](https://abdulsami-sami-07.vercel.app/)
 
