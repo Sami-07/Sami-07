@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami-07" alt="sami-07" /></a> </p>
 
-- 🔭 I’m currently working on **a Fitness app using MERN stack with Redux Toolkit.**
+- 🔭 I’m currently working as **an Intern at an early-stage startup.**
 
 - 🌱 I’m currently learning **Typescript.**
 
