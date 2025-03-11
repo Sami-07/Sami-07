@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shaikh Abdul Sami.</h1>
-<h3 align="center">I develop full stack Web Applications.</h3>
+<h3 align="center">I develop full stack Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-07&label=Profile%20views&color=0e75b6&style=flat" alt="sami-07" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working as **an Intern at an early-stage startup.**
 
-- 🌱 I’m currently learning **TypeScript and tRPC.**
+- 🌱 I’m currently learning **Kubernetes.**
 
 - 👨‍💻 All of my projects are available at [https://abdulsami-sami-07.vercel.app/](https://abdulsami-sami-07.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, MongoDB, etc.**
+- 💬 Ask me about **React.js, Node.js, DevOps, Scalable systems, etc.**
 
 - 📫 How to reach me **s.a.sami359359@gmail.com**
 
