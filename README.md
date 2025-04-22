@@ -73,9 +73,9 @@ Full Stack Developer with expertise in modern web technologies and a passion for
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sami-07&show_icons=true&theme=dracula&count_private=true&hide_border=true)
 
-<p align="center" style="display: flex; gap: 6px; justify-content: center;">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Sami-07&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-07&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+<p align="center" style="display: flex; gap: 6px; justify-content: center; align-items: center; height: 200px;">
+  <img style="object-fit: contain;" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-07&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img style="object-fit: contain;" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sami-07&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Trophies
