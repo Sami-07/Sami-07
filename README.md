@@ -91,4 +91,3 @@ Full Stack Developer with expertise in modern web technologies and a passion for
 
 ---
 
-💼 Open to collaboration and new opportunities! 
