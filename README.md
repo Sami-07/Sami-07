@@ -67,10 +67,10 @@ Full Stack Developer with expertise in modern web technologies and a passion for
 - OpenAI-powered code assistant
 - Scalable code execution system with Judge0 and AWS
 
-- ### [AI-powered Website Builder with 1-Click Deployment](https://codestudioai.abdulsami.dev)
-- Built CodeStudio AI, an AI-driven platform for natural language website generation, real-time code editing, and live preview via Web Containers.
-- Designed scalable backend services (Node.js, AWS S3, AWS ECS) for dynamic code management and 1-click deployment with custom production URLs.
-- Integrated Claude 3.7 Sonnet for iterative website editing, enabling instant content, layout, and style updates through natural language reprompting.
+### [AI-powered Website Builder with 1-Click Deployment](https://codestudioai.abdulsami.dev)
+- Created CodeStudio AI for AI-based website generation with live editing and preview.
+- Engineered scalable Node.js backend with AWS S3/ECS for 1-click deployments.
+- Enabled instant website updates using Claude 3.7 Sonnet via natural language prompts.
 
 ## 📈 GitHub Stats
 
